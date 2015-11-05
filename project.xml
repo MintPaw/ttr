@@ -3,7 +3,7 @@
 	
 	<meta title="Ttr" package="com.sample.ttr" version="1.0.0" company="Company Name" />
 	<app main="Main" path="bin" file="Ttr" />
-	<window width="720" height="1280" />
+	<window width="480" height="720" />
 	
 	<source path="src" />
 	
